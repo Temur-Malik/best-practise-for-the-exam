@@ -189,7 +189,7 @@ section
 .ikkinchi-section h3 
 {
     color: var(--secondary);
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 15px;
     letter-spacing: 2px;
 }
@@ -232,7 +232,7 @@ section
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 35px;
     margin-top: 40px;
 }
 
@@ -537,7 +537,7 @@ color:var(--primary) ;
     
     .turtichi-section .card {
         flex-direction: column;
-        gap: 30px;
+        gap: 20px;
     }
     .g_c {
         width: 100%;
@@ -545,7 +545,7 @@ color:var(--primary) ;
       }
 }
 
-@media (max-width: 480px) 
+@media (max-width: 380px) 
 {
     .birinchi-section h2 {
         font-size: 2rem;
@@ -563,7 +563,7 @@ color:var(--primary) ;
     .turtichi-section h2,
     .beshinchi-section h2,
     .oltinchi-section h2 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     
     section {
